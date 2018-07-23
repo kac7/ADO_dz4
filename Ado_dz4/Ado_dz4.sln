@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado_dz4", "Ado_dz4\Ado_dz4.csproj", "{83354B2F-2E0B-446F-88C8-A6F0D88BA3D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado_dz4_2", "Ado_dz4_2\Ado_dz4_2.csproj", "{4A83139E-7C13-4616-BA8B-BC9B994C211C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado_dz4_3", "Ado_dz4_3\Ado_dz4_3.csproj", "{B854A8C1-70F0-4EF0-8DA7-41719154DAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83354B2F-2E0B-446F-88C8-A6F0D88BA3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83354B2F-2E0B-446F-88C8-A6F0D88BA3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83354B2F-2E0B-446F-88C8-A6F0D88BA3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83354B2F-2E0B-446F-88C8-A6F0D88BA3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A83139E-7C13-4616-BA8B-BC9B994C211C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A83139E-7C13-4616-BA8B-BC9B994C211C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A83139E-7C13-4616-BA8B-BC9B994C211C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A83139E-7C13-4616-BA8B-BC9B994C211C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B854A8C1-70F0-4EF0-8DA7-41719154DAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B854A8C1-70F0-4EF0-8DA7-41719154DAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B854A8C1-70F0-4EF0-8DA7-41719154DAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B854A8C1-70F0-4EF0-8DA7-41719154DAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36503B6D-F8E7-4D6B-A33C-C2F1745646E6}
+	EndGlobalSection
+EndGlobal

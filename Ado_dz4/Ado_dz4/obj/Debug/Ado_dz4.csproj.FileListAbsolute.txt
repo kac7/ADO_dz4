@@ -1,0 +1,7 @@
+D:\ItStep\Ado_dz4\Ado_dz4\bin\Debug\Ado_dz4.exe.config
+D:\ItStep\Ado_dz4\Ado_dz4\bin\Debug\Ado_dz4.exe
+D:\ItStep\Ado_dz4\Ado_dz4\bin\Debug\Ado_dz4.pdb
+D:\ItStep\Ado_dz4\Ado_dz4\obj\Debug\Ado_dz4.csprojAssemblyReference.cache
+D:\ItStep\Ado_dz4\Ado_dz4\obj\Debug\Ado_dz4.csproj.CoreCompileInputs.cache
+D:\ItStep\Ado_dz4\Ado_dz4\obj\Debug\Ado_dz4.exe
+D:\ItStep\Ado_dz4\Ado_dz4\obj\Debug\Ado_dz4.pdb
